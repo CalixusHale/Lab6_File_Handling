@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+------------------------------------
+Last Name: Talacay
+Student ID: TUPM-26-1931
+Seed Digit: 1
+ID Sum: 22
+Verification Value: 155
+Dataset Sample Size: 72
+Valid Records: 72
+Average Global Active Power: 4.044
+JSON File: Talacay_TUPM-26-1931_record.json
+Backup File: Talacay_TUPM-26-1931_record.csv
